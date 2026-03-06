@@ -1,11 +1,10 @@
-# docker-install-script
-# Script De Instalación De Docker Para Ubuntu 24.04
+# Script De Instalación De Docker En Ubuntu Server 24.04.4 LTS
 
-Script en **Bash** para automatizar la instalación de Docker en **Ubuntu Server 24.04** utilizando el repositorio oficial de Docker.
+Script en **Bash** para automatizar la instalación de Docker en **Ubuntu Server 24.04.4** utilizando el repositorio oficial de Docker.
 
 ## Descripción
 
-Este proyecto proporciona un script que instala automáticamente **Docker Engine** y sus componentes necesarios en Ubuntu Server 24.04.
+Este proyecto proporciona un script que instala automáticamente **Docker Engine** y sus componentes necesarios en Ubuntu Server 24.04.4.
 El objetivo es simplificar el proceso de instalación ejecutando todos los pasos necesarios en un solo comando.
 
 El script realiza las siguientes tareas:
@@ -19,7 +18,7 @@ El script realiza las siguientes tareas:
 
 ## Requisitos
 
-* Ubuntu Server 24.04
+* Ubuntu Server 24.04.4
 * Acceso a Internet
 * Permisos de administrador (sudo)
 
@@ -72,7 +71,7 @@ docker-install-script
 
 * Bash
 * Docker
-* Ubuntu Server 24.04
+* Ubuntu Server 24.04.4
 
 ## Autor
 
