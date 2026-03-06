@@ -27,7 +27,7 @@ El script realiza las siguientes tareas:
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/USUARIO/docker-install-script.git
+git clone https://github.com/maoc90/docker-install-script.git
 ```
 
 2. Entrar al directorio del proyecto:
